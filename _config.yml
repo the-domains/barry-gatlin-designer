@@ -1,0 +1,28 @@
+name: 'Barry Gatlin, Designer'
+favicon: null
+layout_spectrum: 0.2774083132389933
+typography_spectrum: 0.11871323781087995
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.048100044252350926
+  lightness: 0.8858832381665707
+  saturation: 0.6898158206604421
+  rhythmicContrast: 0.03690068004652858
+purpose: []

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Most recently, I've served as Senior Electrical Designer, responsible for lighting and power design for\_commercial and municipal projects, including both renovation and new construction. I also used my skills in 3D design to create animations of both engineering projects and company branding.\_"
-datePublished: '2016-03-10T03:15:01.364Z'
-dateModified: '2016-03-10T03:14:41.119Z'
+datePublished: '2016-03-10T03:16:14.562Z'
+dateModified: '2016-03-10T03:15:06.840Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-most-recently-ive-served-as-senior-electrical-designer-re.md

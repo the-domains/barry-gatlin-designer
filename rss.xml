@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Barry Gatlin, Designer]]></title>
+        <description><![CDATA[Barry Gatlin, Designer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 02:09:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Software]]></title>
+            <description><![CDATA[<article><h1>Software</h1><p></p></article>]]></description>
+            <link>undefinedsoftware/index.html</link>
+            <guid isPermaLink="false">eb45d430-2289-4243-ab05-2a23f4bd149f</guid>
+            <pubDate>Fri, 11 Mar 2016 02:08:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

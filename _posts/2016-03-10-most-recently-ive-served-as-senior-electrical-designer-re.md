@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Most recently, I've served as Senior Electrical Designer, responsible for lighting and power design for\_commercial and municipal projects, including both renovation and new construction.\_"
-datePublished: '2016-03-11T02:29:23.521Z'
-dateModified: '2016-03-11T02:29:02.152Z'
+datePublished: '2016-03-11T02:31:50.353Z'
+dateModified: '2016-03-11T02:29:30.489Z'
 title: "I'm a multi-disciplinary engineering designer with robust technical skills, and I’m known for getting the job done right the first time.\_\_"
 author: []
 sourcePath: _posts/2016-03-10-most-recently-ive-served-as-senior-electrical-designer-re.md

@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Most recently, I've served as Senior Electrical Designer, responsible for lighting and power design for\_commercial and municipal projects, including both renovation and new construction.\_"
-datePublished: '2016-03-11T02:37:29.061Z'
-dateModified: '2016-03-11T02:37:20.248Z'
+datePublished: '2016-03-11T02:39:32.884Z'
+dateModified: '2016-03-11T02:38:32.897Z'
 title: "I'm a multi-disciplinary engineering designer with robust technical skills, and I’m known for getting the job done right the first time.\_\_"
 author: []
 sourcePath: _posts/2016-03-10-most-recently-ive-served-as-senior-electrical-designer-re.md
@@ -35,4 +35,3 @@ I've also used 3D programs to reconcile gas pipeline data, and I've designed cel
 **How can my skills help advance your design goals? Contact me: bg@barrygatlindesign.com**
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30f169c3-add3-4dbf-9ca7-84669a061742.jpg)

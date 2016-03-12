@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "See my skills in action on\_my Vimeo channel."
-datePublished: '2016-03-12T01:49:40.006Z'
-dateModified: '2016-03-12T01:47:24.069Z'
+datePublished: '2016-03-12T02:00:23.545Z'
+dateModified: '2016-03-12T01:59:44.210Z'
 title: Video Portfolio
 author: []
 sourcePath: _posts/2016-03-12-video-portfolio.md

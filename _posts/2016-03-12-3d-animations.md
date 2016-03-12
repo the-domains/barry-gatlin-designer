@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://vimeo.com/158698001'
 inLanguage: null
 starred: false
 keywords: []
-description: Logo animation clips created in 3ds Max 2015 and used mainly for YouTube intro clips and office screen savers.
-datePublished: '2016-03-12T01:47:32.994Z'
-dateModified: '2016-03-12T01:42:41.768Z'
+description: ''
+datePublished: '2016-03-12T01:50:43.178Z'
+dateModified: '2016-03-12T01:50:42.959Z'
 author:
   - name: Barry Gatlin
     url: 'http://vimeo.com/user49852262'

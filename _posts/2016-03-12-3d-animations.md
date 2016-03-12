@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Logo animation clips created in 3ds Max 2015 and used mainly for YouTube intro clips and office screen savers.
-datePublished: '2016-03-12T01:42:39.501Z'
-dateModified: '2016-03-12T01:42:21.864Z'
+datePublished: '2016-03-12T01:47:32.994Z'
+dateModified: '2016-03-12T01:42:41.768Z'
 author:
   - name: Barry Gatlin
     url: 'http://vimeo.com/user49852262'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: 3D Animations
+sourcePath: _posts/2016-03-12-3d-animations.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-12-3d-animations.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 

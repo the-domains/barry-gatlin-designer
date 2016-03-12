@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: "Most recently, I've served as Senior Electrical Designer, responsible for lighting and power design for\_commercial and municipal projects, including both renovation and new construction.\_"
-datePublished: '2016-03-12T01:54:15.110Z'
-dateModified: '2016-03-12T01:53:46.598Z'
+datePublished: '2016-03-12T01:55:49.124Z'
+dateModified: '2016-03-12T01:55:36.578Z'
 title: About Barry Gatlin
 author: []
 sourcePath: _posts/2016-03-10-most-recently-ive-served-as-senior-electrical-designer-re.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: about-barry-gatlin/index.html
+_type: Article
 
 ---
 ## I'm a multi-disciplinary engineering designer with robust technical skills, and I'm known for getting the job done right the first time.  

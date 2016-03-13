@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Most recently, I've served as Senior Electrical Designer, responsible for lighting and power design for\_commercial and municipal projects, including both renovation and new construction.\_"
-datePublished: '2016-03-12T02:29:37.692Z'
-dateModified: '2016-03-12T02:08:33.049Z'
+datePublished: '2016-03-13T20:52:43.920Z'
+dateModified: '2016-03-13T20:52:24.190Z'
 title: About Barry Gatlin
 author: []
 sourcePath: _posts/2016-03-10-most-recently-ive-served-as-senior-electrical-designer-re.md
@@ -22,6 +22,8 @@ url: about-barry-gatlin/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/090d70bb-8050-4ed1-a5b4-003af73af69c.jpg)
+
 ## I'm a multi-disciplinary engineering designer with robust technical skills, and I'm known for getting the job done right the first time.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20df09eb-c380-4c1e-84a1-84dddc9f9771.jpg)
 
 Most recently, I've served as Senior Electrical Designer, responsible for lighting and power design for commercial and municipal projects, including both renovation and new construction. 
